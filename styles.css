@@ -1,0 +1,24 @@
+  body {
+      background-color: #e3fdfd;
+      font-family: 'Antic Slab', serif;
+    }
+  hr {
+      background-color: #e3fdfd;
+      border-style: none;
+      border-top-style: dotted;
+      border-color: #00ffff;
+      border-width: 5px;
+      width: 15%;
+      }
+  h1 {
+      color: #005086;
+      font-family: 'Berkshire Swash', cursive, serif;
+    }
+  h2 {
+     color: #005086;
+     font-family: 'Lobster', cursive, serif;
+  }
+
+.bob {
+  border-radius: 15%;
+}
